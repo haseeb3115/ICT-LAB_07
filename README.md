@@ -1,4 +1,4 @@
-\# Temperature Converter
+\# Temperature Converter - Main Version
 
 
 
@@ -26,5 +26,5 @@ Output: Fahrenheit: 98.6
 
 \## Author
 
-Muhammad Haseeb Amer - Registration No: 611577 
+Muhammad Haseeb Amer - Registration No: 611577
 
